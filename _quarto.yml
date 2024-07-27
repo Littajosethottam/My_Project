@@ -10,13 +10,14 @@ website:
         text: Home
       - projects.qmd
     tools:
-      - icon: gmail
+      - name: mail
         href: "mailto:josethottamlitta@gmail.com"
       - icon: linkedin
         href: https://www.linkedin.com/in/litta-thottam-12a223193/
       - icon: github
         href: https://github.com/Littajosethottam/My_Project
-      - href: CV.pdf
+      - name: CV
+        href: CV.pdf
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023, Litta Jose Thottam"
