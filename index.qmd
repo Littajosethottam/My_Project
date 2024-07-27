@@ -3,16 +3,19 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/DP.jpg
 ---
 
 :::{#me}
 
-## Goals
+Hello! My name is Litta Jose Thottam and I am a masters student at Europa-Universitat Viadrina.
 
 ## Education
+Prior to my masters,I did my Bachelors in Economics from Mahatma Gandhi University,Kerala,India.
 
 ## Experience
+I am currently a werkstudent at IHP,Frankfurt(Oder) as marketing strategist.
+
 
 :::
 

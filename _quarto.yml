@@ -3,20 +3,22 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Litta Jose Thottam"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: gmail
+        href: "mailto:josethottamlitta@gmail.com"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/litta-thottam-12a223193/
       - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+        href: https://littajosethottam.github.io/My_Project/
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023, Litta Jose Thottam"
 
 format:
   html:
